@@ -27,4 +27,5 @@ A simple goose chase game built with Processing. Control the goose and avoid bei
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is for educational purposes only.  
+You may not use, copy, modify, or distribute this code for commercial purposes or personal gain without explicit permission from the author.
